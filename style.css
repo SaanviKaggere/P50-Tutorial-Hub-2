@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(24, 231, 214);
+    border: 10px solid rgb(216, 91, 18);
+    background-color: rgba(216, 91, 19, 0.979);
+}
+
+body {
+    background-color: #ccf3ff;
+}
+
+img {
+    border: 3px solid rgb(219, 18, 18);
+}
+
+p {
+    font-family: comic sans ms;
+    font-weight: italic;
+}
+
+ol,
+ul {
+    font-family: comic sans ms;
+}
+
+.grid{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+}
+
